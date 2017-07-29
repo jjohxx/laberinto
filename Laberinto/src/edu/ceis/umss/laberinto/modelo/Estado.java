@@ -1,7 +1,7 @@
 package edu.ceis.umss.laberinto.modelo;
 
 /**
- *  @author Anonimous
+ * @author Anonymous
  */
 public enum Estado {
     JUGADOR,

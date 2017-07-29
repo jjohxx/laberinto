@@ -1,0 +1,8 @@
+
+Gsquid:S1068"&Remove this unused "id" private field.(ôç¼Óşÿÿÿÿ8œ•¿£Ø+
+Psquid:S1066"/Merge this if statement with the enclosing one.(©Ä—µÿÿÿÿÿ8é¬¤Ø+
+…squid:S1151"iReduce this switch case number of lines from 6 to at most 5, for example by extracting code into methods.(‰áä®8ÕÃ¤Ø+
+„squid:S1151"iReduce this switch case number of lines from 6 to at most 5, for example by extracting code into methods.(Ÿ ù8¾ğÿ£Ø+
+Šsquid:S1151"iReduce this switch case number of lines from 6 to at most 5, for example by extracting code into methods.(ˆïÛİûÿÿÿÿ8Şí¤Ø+
+Šsquid:S1151"iReduce this switch case number of lines from 6 to at most 5, for example by extracting code into methods.(”ãˆÁûÿÿÿÿ8Şí¤Ø+
+Msquid:S1068",Remove this unused "nickname" private field.(¥šÓßÿÿÿÿÿ8œ•¿£Ø+
