@@ -25,24 +25,18 @@ public class Main {
             switch (direccion) {
                 case "w":
                     jugador.mover(Direccion.ARRIBA);
-                    juego.getTablero().mostrarTablero();
                     break;
                 case "s":
                     jugador.mover(Direccion.ABAJO);
-                    juego.getTablero().mostrarTablero();
                     break;
                 case "a":
                     jugador.mover(Direccion.IZQUIERDA);
-                    juego.getTablero().mostrarTablero();
                     break;
                 case "d":
                     jugador.mover(Direccion.DERECHA);
-                    juego.getTablero().mostrarTablero();
-                    break;
-                default:
-                    juego.getTablero().mostrarTablero();
                     break;
             }
+            juego.getTablero().mostrarTablero();
         }
     }
 }
